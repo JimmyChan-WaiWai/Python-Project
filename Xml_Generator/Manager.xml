@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<Managers address="yyy" company="xx">
+		<Manager>
+			<name>joy</name>
+			<age>27</age>
+			<sex>Female</sex>
+		</Manager>
+		<Manager>
+			<name>tom</name>
+			<age>30</age>
+			<sex>Male</sex>
+		</Manager>
+		<Manager>
+			<name>ruby</name>
+			<age>29</age>
+			<sex>Female</sex>
+		</Manager>
+	</Managers>
